@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜風に吹かれて口笛を",
+  "base_artist": "MIMI",
+  "createdAt": "2026-03-13T12:06:12.126663Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜風に吹かれて口笛を",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_夜風に吹かれて口笛を_MIMI.txt"
+    }
+  ]
+}
